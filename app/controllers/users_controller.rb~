@@ -17,7 +17,5 @@ def create
     end
   end
 
-def index
-end
 
 end
